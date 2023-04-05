@@ -1,5 +1,5 @@
 boto3
 pandas
 pytorch-lightning == 1.2.1
-torch == 1.7.1
+torch == 2.0.0
 transformers == 4.3.3
